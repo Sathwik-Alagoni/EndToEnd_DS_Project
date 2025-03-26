@@ -7,4 +7,8 @@ Agenda
 	c) requirement.txt
 
 2- Src folder and build the package	
+	components - it is created as package and it can be exported and imported
+		its contains all the module
+	pipleline- 
+
 
